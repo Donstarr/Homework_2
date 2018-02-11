@@ -1,0 +1,102 @@
+body {
+    font-size: 17px;
+    background-color: #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 980px, 768px, 640px
+
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+
+
+
+
+#name {
+  background-color:  #4aaaa5;
+  color: white;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 30px;
+}
+
+.box-set {
+  padding-left:135px;
+  background-color: white;
+}
+
+
+
+.panel-title {
+    font-size: 25px;
+    color: #4aaaa5;
+    margin-bottom: -10px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+  }
+  
+  @media screen and (min-width: 640px) {
+    
+  #main-content {
+    margin-top: 50px;
+    width: 650px;
+    height: 500px;
+    background-color: #fff;
+  }
+  
+  #sidebar {
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 20px;
+    width: 270px;
+    height: 220px;
+    text-align: center;
+    background-color: white;
+  }
+  
+}
+
+    body {
+      background-color: #333;
+    }
+  
+
+    .wrapper {
+      width: 600px;
+    }
+  
+
+  .btn {
+    background-color: #4aaaa5
+  }
+
+  .section-portfolio {
+    width: 650px;
+    height: 800px;
+    margin-right: 10px;
+    float: left;
+    position: relative;
+    padding: 30px;
+    background-color: white;
+}
+
+.box-set {
+  padding-left:135px;
+  background-color: white;
+}
+  
+  #footer {
+    text-align: center;
+    margin-top: 50px;
+    line-height: 80px;
+    border-top: 20px solid #4aaaa5;
+    background-color: #666666;
+    color: grey;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+
+
